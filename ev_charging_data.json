@@ -1,0 +1,60 @@
+{
+  "TATA": {
+    "NEXON_40.5KWH": {
+      "battery_kwh": 40.5,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": -3.1177, "B": 1.04378, "C": 1},
+        {"start_pct": 30, "end_pct": 50, "A": -3.1177, "B": 1.04378, "C": 1},
+        {"start_pct": 50, "end_pct": 80, "A": -3.1177, "B": 1.04378, "C": 1},
+        {"start_pct": 80, "end_pct": 100, "A": -3.1177, "B": 1.04378, "C": 5}
+      ]
+    },
+    "NEXON_30.9KWH": {
+      "battery_kwh": 30.9,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": -2.323, "B": 0.778, "C": 1},
+        {"start_pct": 30, "end_pct": 50, "A": -2.323, "B": 0.778, "C": 1},
+        {"start_pct": 50, "end_pct": 80, "A": -2.323, "B": 0.778, "C": 1},
+        {"start_pct": 80, "end_pct": 100, "A": -2.323, "B": 0.778, "C": 5}
+      ]
+    },
+    "TIAGO_EV_19.2KWH": {
+      "battery_kwh": 19.2,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": -2.35119, "B": 0.930261, "C": 0.92},
+        {"start_pct": 30, "end_pct": 50, "A": -2.35119, "B": 0.930261, "C": 0.82},
+        {"start_pct": 50, "end_pct": 80, "A": -2.35119, "B": 0.930261, "C": 2.33},
+        {"start_pct": 80, "end_pct": 100, "A": -2.35119, "B": 0.930261, "C": 4.5}
+      ]
+    },
+    "TIGOR_EV_26KWH": {
+      "battery_kwh": 26.0,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": -3.3286, "B": 1.129, "C": 0.95},
+        {"start_pct": 30, "end_pct": 50, "A": -3.3286, "B": 1.129, "C": 0.86},
+        {"start_pct": 50, "end_pct": 80, "A": -3.3286, "B": 1.129, "C": 2.6},
+        {"start_pct": 80, "end_pct": 100, "A": -3.3286, "B": 1.129, "C": 4.8}
+      ]
+    },
+    "PUNCH_EV_35KWH": {  
+      "battery_kwh": 35.0,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": -3.10806, "B": 0.997242, "C": 0.95},
+        {"start_pct": 30, "end_pct": 50, "A": -3.10806, "B": 0.997242, "C": 0.78},
+        {"start_pct": 50, "end_pct": 80, "A": -3.10806, "B": 0.997242, "C": 2.46},
+        {"start_pct": 80, "end_pct": 100, "A": -3.10806, "B": 0.997242, "C": 4}
+      ]
+    }
+  },
+  "MAHINDRA": {
+    "XUV400_39.5KWH": {
+      "battery_kwh": 39.5,
+      "ranges": [
+        {"start_pct": 0, "end_pct": 30, "A": 3.99958, "B": 0.763882, "C": 0.83},
+        {"start_pct": 30, "end_pct": 50, "A": 3.99958, "B": 0.763882, "C": 0.45},
+        {"start_pct": 50, "end_pct": 80, "A": 3.99958, "B": 0.763882, "C": 1.85},
+        {"start_pct": 80, "end_pct": 100, "A": 3.99958, "B": 0.763882, "C": 3.5}
+      ]
+    }
+  }
+}
