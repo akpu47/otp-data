@@ -1,6 +1,6 @@
 {
   "day": {
-    "price_per_unit": 100.0,
+    "price_per_unit": 8.0,
     "start_hour": 6,
     "end_hour": 22
   },
